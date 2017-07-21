@@ -1,4 +1,4 @@
-package test.web;
+package main.java.xingoo.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
